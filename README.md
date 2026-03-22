@@ -3,6 +3,8 @@ Minecraft Autorski Plugin Do Sprawdzania Graczy, Po Wgraniu Pluginu Prosze Uzyc 
 
 # Komendy
 
+- Komendy Przez " / " Zostaly Wylaczone, Uzyj /Panel [Gracz]
+
 /sprawdz <gracz>
 /cheaty <gracz>
 /czysty <gracz>
