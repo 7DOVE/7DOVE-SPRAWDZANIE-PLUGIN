@@ -1,6 +1,28 @@
 # 7DOVE-SPRAWDZANIE-PLUGIN READ BELOW:
 Minecraft Autorski Plugin Do Sprawdzania Graczy, Po Wgraniu Pluginu Prosze Uzyc LP ( LuckyPerms) I Utworzyc Range Sprawdzany, Jesli Default = Ranga Gracza Prosze Ustawic Default Na Range Gracza.
 
+# Komendy
+
+/sprawdz <gracz>
+/cheaty <gracz>
+/czysty <gracz>
+/brakwspolpracy <gracz>
+/ustawsprawdzarke ( ustawia miejsce sprawdzarki )
+/setsprawdzaniespawn ( ustawia polozenie spawna po wpisaniu /czysty)
+/logout ( mozna  nadac bana za pomoza komendy lub gdy osoba wyjdzie z servera automatyczxnie dostanie bana)
+/panel <gracz>
+
+
+# Panel
+
+Mozna:
+
+- Cheaty
+- Czysty
+- Przyznanie
+- Brak WspolPracy
+
+
 # Jak Ustawic Permsy:
 - sprawdz.admin: ( admin )
 - default: op ( Default Operator Servera)
