@@ -2,8 +2,8 @@
 Minecraft Autorski Plugin Do Sprawdzania Graczy, Po Wgraniu Pluginu Prosze Uzyc LP ( LuckyPerms) I Utworzyc Range Sprawdzany, Jesli Default = Ranga Gracza Prosze Ustawic Default Na Range Gracza.
 
 # Jak Ustawic Permsy:
-sprawdz.admin:
-    default: op
+- sprawdz.admin: ( admin )
+- default: op ( Default Operator Servera)
 
 # Jaka Range Stworzyc? -
 - Stworz Range Sprawdzany,
