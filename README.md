@@ -13,6 +13,12 @@ Minecraft Autorski Plugin Do Sprawdzania Graczy, Po Wgraniu Pluginu Prosze Uzyc 
 /panel <gracz>
 
 
+# Co Posiada Ten Plugin?
+
+- Posiada Panel
+- Wszystkie komendy potrzebne takie jak: /sprawdz /czysty
+- Pobiera Flagi Kazdego Anty-Cheata Z Konsoli I Mozna Zobaczyc Je W /Panel <gracz>
+
 # Panel
 
 Mozna:
