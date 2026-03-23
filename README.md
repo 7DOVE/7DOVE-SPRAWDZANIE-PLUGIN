@@ -41,7 +41,7 @@ Mozna:
 
 # Kontakt
 
-- discord: d1zz.p (d1zzyoo)
+- discord: d1zz7.p (d1zzyoo)
 - Server DC: https://discord.gg/HN9bf3UK2M
 
 
