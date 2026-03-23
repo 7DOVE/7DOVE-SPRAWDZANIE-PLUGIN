@@ -42,7 +42,7 @@ Mozna:
 # Kontakt
 
 - discord: d1zz7.p (d1zzyoo)
-- Server DC: https://discord.gg/HN9bf3UK2M
+- Server DC: https://discord.gg/Nc2J7hfPM5
 
 
 # Milego Korzystania!
